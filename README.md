@@ -1,3 +1,5 @@
+※CRUD操作確認用
+
 ### `git clone https://github.com/creatistor/Laravel_Brief_CRUD_20231217.git`
 ### `cd Laravel_Brief_CRUD_20231217`
 ### `composer install`
